@@ -1,0 +1,21 @@
+# WorkBuddy 项目数据（本地记忆/会话数据，不入库）
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Office 临时文件
+~$*
+*.tmp
+
+# 日志
+*.log
